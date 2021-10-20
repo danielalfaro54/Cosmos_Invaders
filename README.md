@@ -3,4 +3,4 @@ Space Invaders type game made entirely in java. The main objective of the game i
 
 IN-GAME SCREENSHOT:
 
-![Screenshot 2021-10-19 234847](https://user-images.githubusercontent.com/45349730/138042170-c1cd3ce4-168c-40c5-9fb5-da9f30651a0a.png)
+![Screenshot 2021-10-19 234847 (1)](https://user-images.githubusercontent.com/45349730/138042722-99596b06-9971-4e7f-a877-41c8f888355f.png)
